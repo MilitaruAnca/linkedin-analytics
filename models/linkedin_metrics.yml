@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: linkedin_metrics
+    description: "Datele mele de LinkedIn din BigQuery"
+    columns:
+      - name: string_field_0
+        description: "Data postarii"
+      - name: string_field_3
+        description: "Impresii totale"
